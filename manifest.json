@@ -1,0 +1,21 @@
+{
+  "short_name": "FFF Esports",
+  "name": "FFF Esports - Play & Earn",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#121212",
+  "display": "standalone",
+  "theme_color": "#ff3e3e",
+  "orientation": "portrait"
+}
